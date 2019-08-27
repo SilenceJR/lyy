@@ -1,1 +1,1 @@
-[index.pdf](https://github.com/SilenceJR/lyy.github.io/docs/index.pdf)
+[index.pdf](https://github.com/SilenceJR/lyy.github.io/blob/master/docs/index.pdf)
